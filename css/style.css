@@ -1,0 +1,128 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+}
+.first-part{
+    display: flex;
+    margin-bottom: 100px;
+}
+h1{
+    font-size: 60px;
+}
+.half-width{
+    width: 50%;
+}
+.half-width h1{
+    line-height: 40px;
+}
+.half-width img{
+    width: 100%;
+}
+.orange-color{
+    color: orange;
+}
+.diet-bio{
+    margin-top: 90px;
+    margin-left: 120px;
+}
+.gray-color{
+    color: rgb(73, 62, 62);
+}
+.dim-gray{
+    color: dimgray;
+    font-size: 20px;
+}
+.link-button{
+    text-decoration: none;
+    background: linear-gradient(orange, tomato);
+    color: white;
+    padding: 20px 35px;
+    border-radius: 25px;
+}
+.order-button{
+    margin-top: 50px;
+}
+.second-part{
+    display: flex;
+    background-image: url(../images/shapes/7.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100%;
+    margin-bottom: 100px;
+}
+.female img{
+    width: 52%;
+    margin-left: 135px;
+}
+.about-me{
+    margin-top: 52px;
+    color: dimgrey;
+    font-size: 30px;
+}
+.about-me-bio{
+    width: 411px;
+}
+.contact-button{
+    margin-top: 160px;
+}
+.third-part{
+    margin-bottom: 100px;
+}
+.my-recipies{
+    margin: auto;
+    width: 10%;
+    color: #5d5862;
+}
+.recipies-bio{
+    margin: auto;
+    width: 49%;
+    color: dimgrey;
+}
+.fourth-part{
+    display: flex;
+    margin-bottom: 100px;
+}
+.Recipie-Title{
+    width: 29%;
+    margin-left: 65px;
+    margin-right: 50px;
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 15px;
+}
+.Recipie-Title img{
+    width: 360px;
+    margin: auto;
+    display: block;
+    margin-top: 10px;
+}
+.Recipie-Title h2{
+    margin-left: 22px;
+}
+.Recipie-Title p{
+    margin-left: 22px;
+}
+.fifth-part{
+    display: flex;
+    margin-bottom: 100px;
+}
+.social-info{
+    width: 83%;
+    box-shadow: 10px 10px 40px gray;
+    margin-left: 135px;
+}
+.follower-info{
+    width: 30%;
+    float: left;
+    text-align: center;
+}
+footer{
+    background-color: black;
+    text-align: center;
+    height: 215px;
+}
+footer p{
+    color: white;
+}
+footer h2{
+    padding-top: 25px;
+}
