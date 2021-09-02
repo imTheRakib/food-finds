@@ -63,7 +63,9 @@ h1{
     width: 411px;
 }
 .contact-button{
-    margin-top: 160px;
+    /* margin-top: 160px; */
+    position: relative;
+    top: 36px;
 }
 .third-part{
     margin-bottom: 100px;
