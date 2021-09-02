@@ -70,8 +70,9 @@ h1{
 .third-part{
     margin-bottom: 100px;
 }
-.my-recipies{
-    margin: auto;
+.my-recipies h2{
+    position: relative;
+    left: 700px;
     width: 10%;
     color: #5d5862;
 }
